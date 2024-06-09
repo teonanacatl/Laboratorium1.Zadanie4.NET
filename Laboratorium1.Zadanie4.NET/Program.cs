@@ -1,4 +1,4 @@
-﻿namespace Laboratorium1.Zadanie3.NET
+﻿namespace Laboratorium1.Zadanie4.NET
 {
     class Program
     {
